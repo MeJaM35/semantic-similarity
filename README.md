@@ -1,6 +1,4 @@
-Sure! Here's a README for your repository:
 
----
 
 # Semantic Similarity
 
